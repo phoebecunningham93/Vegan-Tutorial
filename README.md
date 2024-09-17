@@ -1,12 +1,4 @@
----
-title: "Vegan Diversity Workshop"
-author: "Lee Henry & Phoebe Cunningham"
-date: "2024-08-29"
-output:
-  prettydoc::html_pretty:
-    theme: cayman
-    highlight: github
----
+### Vegan Diversity Workshop"
 
 # Setting up in R
 
