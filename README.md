@@ -1,6 +1,6 @@
-### Vegan Diversity Workshop"
+# Vegan Diversity Workshop
 
-# Setting up in R
+## Setting up in R
 
 Open an R script by choosing new file R script, and save this script "BIO771P_VeganExercise".
 
